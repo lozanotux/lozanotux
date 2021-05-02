@@ -8,9 +8,7 @@
         <img src="https://img.shields.io/github/followers/lozanotux?style=social"/>
     </a>
     <!-- OPEN SOURCE <3 -->
-    <a href="https://github.com/lozanotux?tab=repositories">
-        <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
-    </a>
+    <a href="https://github.com/lozanotux?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <!-- FEDORA BADGE -->
     <img src="https://img.shields.io/badge/OS-Fedora-blue"/>
     <!-- -->
@@ -23,15 +21,15 @@
 
 ### Hi there 👋
 
-I'm mostly a backend developer.<br>
-I have a lot of experience developing webservices and as a Middleware Administrator.
+I'm mostly a backend developer and CI/CD Engineer.<br>
+I have a lot of experience as a webservices developer and Middleware Administrator.
 
 <br>
 
 ### 👔 I’m currently working on Vault-IT for Red Hat partner
 ### 💼 Take a look at my [portfolio](https://github.com/lozanotux/portfolio)
-### 🌱 I’m currently learning Python using Django and Flask frameworks
-### 👯 I’m looking to collaborate in Python projects
+### 🌱 I’m currently diving into Python development using the Django and Flask frameworks.
+### 👯 I’m looking to collaborate in more Python projects
 ### 💬 Ask me about my hobbies
 
 <br>
