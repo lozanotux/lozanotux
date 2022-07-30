@@ -34,6 +34,17 @@ I have a lot of experience as a webservices/microservices developer and Middlewa
 
 <br>
 
+## Projects 🚂
+
+I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces.
+
+Some of the projects:
+
+- 🗂 [Platzigram](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
+- 🗂 [ArgoCD rollouts-demo (Blue-Green)](https://github.com/lozanotux/rollouts-demo)
+
+<br>
+
 # 💻 Languages and Tools:
 ![k8s](https://img.shields.io/badge/Kubernetes-3371e3.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![openshift](https://img.shields.io/badge/openshift-cc0000.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAC8klEQVRYhbWYb2hPURjHP/vZZrWYGUPN/yjUbGRSUkrkz9hqtShMeOGNF5KXSl4IeUPyJ7XIi0n5m4U03kgomRga8gbbyAg1W/bVWedX1+3cP7/f/fnW6d57zvM853vPeZ7nPPfmSSILzABWA1XALPtcBHwCXgMvgDbgDjAQ27whk0FrkNSu+Pgp6ZikijhzxCWySNKbDEi4cDgXZA4kJOHFW0kTsyXTkkMiafRJqnbNF+bAzUBTDLf7CrwDfgNlwHSgIMpVgYXAYyAFDBty9IAV2RXxdr2S9kuqkpTn0x0pqVbSzQgbHZLqJT209wUuIvMijBzNIPoM2fcxt++ky0BbiEJDhqnAtJSkK5JaJU2SdMpht1vSHr/iyhAiG7IgEtSepFfD7oQzmi4GEDmUIxIm+e2Q9E3S+rDQHmMzph9dkooTECiTtFXSLZ/h42FkagNW5WDC1agKsPtRUqFXNuWJ/bkBOeFGjFwThqfAZcf4BKDG2+ElM9mh0At0Ao3AggSEWgP6K+11LFDiJTPaIZyyb9YCVCQg8yygfwmwD+gxq5TvGSi2qd3UIQ22r8QzXpqAzGfP/Q9ghL1v9PT3eR1tqr3W+BytU9JeSeUJnNjYPidpWkDSM6hyKY63BC5Imp/DRJduDxxEzEle7hUqkrRJ0gdJ5/8DCexx8MdBxlSPGJ9ZBmwD6oDhdv+WAoVAfwI/cWGjL4LTuD90tdvhwpYcr0q5PQZcWJHOwOsCBEyJmJ9DMlcD5mn3HwcvAwRP2PHltlhakyWRMwH2DTb7yWwPEDRe3uPr25kBiXGSHoUQueeV9yqma4zdko6EGDB4JalJUmkAiUpJpyNsDEia6dXzFuQV9uuv2z5fAuojomMQeG4L8n57pMyxh2AU1gLX/5GJWObbEW+XLVa55ouz7805JPHFbqFzrriOWGc/T5LgbFSqyCQ8jX+ZSDIVWlwM2qQ6O84c2f4SWWx/iVQDU4BR9qvwF9AFdAB3gWvA91gWgb+y2vPUXVf1jAAAAABJRU5ErkJggg==&logoColor=white)
