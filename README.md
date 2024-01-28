@@ -40,8 +40,10 @@ I really enjoy investing my time in technology projects, watch how all the piece
 
 Some of the projects:
 
-- 🗂 [Platzigram](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
+- 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
 - 🗂 [ArgoCD rollouts-demo (Blue-Green)](https://github.com/lozanotux/rollouts-demo)
+- 🗂 [Calculadorita (GNU/Linux Desktop App)](https://github.com/lozanotux/calculadorita)
+- 🗂 [Netflix Spring Cloud PoC](https://github.com/lozanotux/spring-cloud)
 
 <br>
 
