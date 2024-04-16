@@ -11,12 +11,10 @@
     <a href="https://github.com/lozanotux?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <!-- FEDORA BADGE -->
     <img src="https://img.shields.io/badge/OS-Fedora-blue"/>
-    <!-- -->
+    <!-- My BLOG -->
     <a href="https://soajp.blogspot.com/">
         <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=blog&up_color=green&up_message=online&url=https%3A%2F%2Fsoajp.blogspot.com%2F"/>
     </a>
-    <!-- VISITOR COUNTER -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=lozanotux.lozanotux"/>
 </p>
 
 ### Hi there 👋
@@ -43,6 +41,7 @@ Some of the projects:
 - 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
 - 🗂 [ArgoCD rollouts-demo (Blue-Green)](https://github.com/lozanotux/rollouts-demo)
 - 🗂 [Calculadorita (GNU/Linux Desktop App)](https://github.com/lozanotux/calculadorita)
+- 🗂 [Quarkus - GraphQL](https://github.com/lozanotux/quarkus-graphql)
 - 🗂 [Netflix Spring Cloud PoC](https://github.com/lozanotux/spring-cloud)
 
 <br>
