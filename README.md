@@ -10,24 +10,32 @@
     <!-- OPEN SOURCE <3 -->
     <a href="https://github.com/lozanotux?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <!-- FEDORA BADGE -->
-    <img src="https://img.shields.io/badge/OS-Fedora-blue"/>
-    <!-- My BLOG -->
-    <a href="https://soajp.blogspot.com/">
-        <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=blog&up_color=green&up_message=online&url=https%3A%2F%2Fsoajp.blogspot.com%2F"/>
+    <a href="https://fedoraproject.org">
+        <img src="https://img.shields.io/badge/OS-Fedora-blue"/>
+    </a>
+    <!-- Medium -->
+    <a href="https://medium.com/@jlozano-rh">
+        <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Medium&up_color=green&up_message=View%20Publications&url=https%3A%2F%2Fsoajp.blogspot.com%2F"/>
     </a>
 </p>
 
 ### Hi there 👋
 
-I'm mostly a backend developer and CI/CD Engineer.<br>
-I have a lot of experience as a webservices/microservices developer and Middleware Administrator.
+I'm a **DevOps Engineer** with a strong background in **backend development** and **CI/CD automation**.<br>
+I’m passionate about cutting-edge technologies and constantly exploring new ways to innovate.
 
 <br>
 
-### 👔 I’m currently working on Red Hat
+### 🚀 **What I’m currently focused on:**
+
+- Diving into the world of **Generative AI** and its real-world applications
+- Building and optimizing **CI/CD pipelines** for efficient software delivery
+- Designing and maintaining **scalable**, **cloud-native architectures**
+
+### 👔 Currently working on **Red Hat**
+### 🌱 Always learning and experimenting with emerging technologies
+### 🤝 Open to collaborating on **AI**, **DevOps**, and **Cloud Automation** projects
 ### 💼 Take a look at my [portfolio](https://github.com/lozanotux/portfolio)
-### 🌱 I’m currently diving into Python development using the Django and Flask frameworks.
-### 👯 I’m looking to collaborate in more Python projects
 ### 💬 Ask me about my hobbies
 
 <br>
@@ -36,7 +44,7 @@ I have a lot of experience as a webservices/microservices developer and Middlewa
 
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces.
 
-Some of the projects:
+Some of my projects:
 
 - 🗂 [AssistSeek (deepseek-r1 Virtual Assistant)](https://github.com/lozanotux/assistseek)
 - 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
@@ -59,7 +67,7 @@ Some of the projects:
 ![backstage](https://img.shields.io/badge/Backstage%20-9BF0E1.svg?&style=for-the-badge&logo=backstage&logoColor=black)
 ![rhelai](https://img.shields.io/badge/RHEL%20AI%20-EE0000.svg?&style=for-the-badge&logo=red%20hat&logoColor=white)
 ![bash](https://img.shields.io/badge/bash%20-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
-![java](https://img.shields.io/badge/java%20-000000.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![java](https://img.shields.io/badge/java%20-F7DF1E.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring%20-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![camel](https://img.shields.io/badge/camel-EC6813.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFi0lEQVRYhe2Xa4hUZRjHf3PmzMyZneve3XV3VVZd3VJXsouVJIhENyWFsMJA6INEICbYnSIoi5SgKCLsk4ERFmlSWWLqZgWZhC1ZruItdW+zzl7mcubMOSfe8866azO7e+xrPTBz3pnzzvn/n9v/eYf/vHlGAmC3b5aL3CA0LoPodLAMULzgj4FlgtdfRiC+gry+FFVbQLAyAljoyTzZ5B/Y5mG8/s9Jd3cRrIPLByHWDFo1XPwe+k+CL+jAeBa/6FzViTNgQz4jCLQQmvIYavBx1GBN0bZAXLwWAg9jGW+h+HfiUbaTG/wBMwceZVyE0gQ8XjCzkEtB9fzXCVY9jeJzVy2KTyNUuw5YR93ijzGNR8hn7DHBvnZ7CXTQk6BVxqhuaydU5x78n1bVtoaam05i5ec5qbUtsG15LSJg5eWN3IBY11Ax9xCh2jv/HfJYf5SZVLYeIVzX5kR1xMmCjaZAq4J8GuKzYdbqfcCCSR9u6t2ke7YTqluPolaOu09RI8xafQjTiDmFHYiN3rq6ClaBLwIta95Aq2hz5V2m92sGz71A99Hb0QcOYAwfwrYS4+yOMnPlQcd7kY6iCDQsEe/1lLdsdgUuzBepdNo0N3CSbGIZih+86Rosaz2ycEwn2pZlovpqCFY+SbByFX3HPysmMHhBVPxG1+DCArH7sfESnmqiauDxCe3oQR96xcEXdeXxgEeF9EXQr/xK3S2b6TpylcBoChIdcfyRDddFIHlmA4pqOcCidVUfeH1gm2DpoChOELBzUlN6jn2IZVrUL1lbHIEZ961ELXPfb/0n3qVz19sEa6WnDXeAGoR8VmpIXodgNRiDIgXyO8sox6s1UbPoUWDHtQQ83nuvw3edc/s2OQ8X3hpDMNgAvhD4omDnJSnFfytl9bfh9S1C8c+jYWmL6Df0oY7iCMSbl7mGP/vVU6Qu6GiFzpuyHPxRyA2B14DYjFfxaqvQyueU/L2H8pHlaA3kBg64ArfyBhfb33NCnL0C+RwYGUj3wMBZCERfIlT33LjgwvyRyMhyNAIX2x+ifM4m4jO3Tkgg1f0BVQulbogh49Vkfo0URJsqKJ/7sitHigioITEDtpHo6CHc+A6BWKxotzHcy6lPn3XW2T4pKIKE0PdcEm5Yt9XRhcnMSOdGdoymQPSryGn/iR2c+7KVbGLv2KGBqfdxavfd9HUMkeoBfQjCdaCJURyCUA2EG9dOji6elesrjoAwAeiPQ7b3EomOB4hMn4UarEdRdQbPHCeTSBOqL3guHlQJlgcyA9C8Yj2qNsn5omC55PnSBCQLmVchq5bZiZHqRA3IdhPfiz6vXwyhWtAH5H6fP0C4YYsrcGGJ3z+agECBhCOhijySCZVTVDAzUtmiTaCVg1Yhx/fUu1YTiMVdgad7O0j3XO04FyGzJbhdICTq5PKP8oyYT0kRis1+zRW4sK6fn6f72NWPk58JhcCIQSOqXIR+uEuMYTnsxMlp7rotlFVPcwWeGzpBqnsPtTeXICBC7hXjtJBvcdAUWp7ugtOfgS8M858AfT/8uRuy3TDtwZlEG59x7f2xrUtIHIdwQwkCouhMXXqa6YdsPxgHIXkSeo/C7LVSbKrbIN4K2dpaFm78zhWwOBl3frKcK78l8EcgP1yCwPlv5f8A0WLiKo5nYqCIH0SaC4JjSWLlrdU0LduL4msYB3KsZTjzxSqOv7mfioWyk8boyyiB4b9kb4sUjKRixIx0YcIZIj2ttKw5POEZcMQyfb+QTawinz1P2XTZTWPF7RoCYpSOZ7b4hxRowh99H63inkmBhy/9hN6/DcvcJaMYkjVWwtwpl2g5fzhJNrmTfOocwaoGsGvwhcPOfWM4i233kL1yGsvYw8Cpb5wWrbhR1pWYFf9bKQP+BuVSCxhF7Lk6AAAAAElFTkSuQmCC&logoColor=white)
 ![python](https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -78,3 +86,5 @@ Some of the projects:
 ![bpel](https://img.shields.io/badge/bpel-f80000.svg?&style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)
 
 Powered by [https://simpleicons.org/](https://simpleicons.org/)
+
+✉️ Let’s connect! Feel free to reach out to me
