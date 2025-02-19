@@ -4,7 +4,7 @@
         <img alt="Juan Pablo Lozano" src="https://img.shields.io/badge/-LinkedIn-5f00c4?style=flat&logo=Linkedin&logoColor=white" />
     </a>
     <!-- FOLLOWRERS -->
-    <a href="https://github.com/lozanotux">
+    <a href="https://github.com/lozanotux?tab=followers">
         <img src="https://img.shields.io/github/followers/lozanotux?style=social"/>
     </a>
     <!-- OPEN SOURCE <3 -->
