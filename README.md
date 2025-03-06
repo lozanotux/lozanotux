@@ -52,6 +52,7 @@ Some of my projects:
 - 🗂 [Calculadorita (GNU/Linux Desktop App)](https://github.com/lozanotux/calculadorita)
 - 🗂 [Quarkus - GraphQL](https://github.com/lozanotux/quarkus-graphql)
 - 🗂 [Netflix Spring Cloud PoC](https://github.com/lozanotux/spring-cloud)
+- 🗂 [JWT with Python & Flask PoC](https://github.com/lozanotux/python-flask-jwt)
 
 <br>
 
