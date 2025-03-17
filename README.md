@@ -47,6 +47,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 Some of my projects:
 
 - 🗂 [AssistSeek (deepseek-r1 Virtual Assistant)](https://github.com/lozanotux/assistseek)
+- 🗂 [Trading Notification Bot (with Machine Learning)](https://github.com/lozanotux/trading-notification-bot)
 - 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
 - 🗂 [ArgoCD rollouts-demo (Blue-Green)](https://github.com/lozanotux/rollouts-demo)
 - 🗂 [Calculadorita (GNU/Linux Desktop App)](https://github.com/lozanotux/calculadorita)
