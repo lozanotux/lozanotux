@@ -46,7 +46,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 
 Some of my projects:
 
-- 🗂 [AssistSeek (deepseek-r1 Virtual Assistant)](https://github.com/lozanotux/assistseek)
+- 🗂 [LangChain Workshop](https://github.com/lozanotux/langchain-workshop)
 - 🗂 [Billing API with FastAPI](https://github.com/lozanotux/fastapi-example)
 - 🗂 [Trading Notification Bot (with Machine Learning)](https://github.com/lozanotux/trading-notification-bot)
 - 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
