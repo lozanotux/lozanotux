@@ -46,6 +46,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 
 Some of my projects:
 
+- 🗂 [MCP Workshop](https://github.com/lozanotux/mcp-workshop)
 - 🗂 [LangChain Workshop](https://github.com/lozanotux/langchain-workshop)
 - 🗂 [Billing API with FastAPI](https://github.com/lozanotux/fastapi-example)
 - 🗂 [Trading Notification Bot (with Machine Learning)](https://github.com/lozanotux/trading-notification-bot)
