@@ -35,28 +35,33 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
 ### 👔 Currently working on **Red Hat**
 ### 🌱 Always learning and experimenting with emerging technologies
 ### 🤝 Open to collaborating on **AI**, **DevOps**, and **Cloud Automation** projects
-### 💼 Take a look at my [portfolio](https://github.com/lozanotux/portfolio)
+### 🛠️ Need a shortcut? Check my [Dev-Toolbox](https://github.com/lozanotux/portfolio) (Snippets & Blueprints)
 ### 💬 Ask me about my hobbies
 
 <br>
 
-## Projects 🚂
+## 📂 Portfolio
 
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces.
 
-Some of my projects:
+### 🤖 Generative AI & Machine Learning
+- 🗂 [MCP Workshop](https://github.com/lozanotux/mcp-workshop) - Exploring Model Context Protocol.
+- 🗂 [LangChain Workshop](https://github.com/lozanotux/langchain-workshop) - Hands-on with LLM orchestration.
+- 🗂 [Trading Notification Bot](https://github.com/lozanotux/trading-notification-bot) - ML-based market alerts.
 
-- 🗂 [MCP Workshop](https://github.com/lozanotux/mcp-workshop)
-- 🗂 [LangChain Workshop](https://github.com/lozanotux/langchain-workshop)
-- 🗂 [Billing API with FastAPI](https://github.com/lozanotux/fastapi-example)
-- 🗂 [Trading Notification Bot (with Machine Learning)](https://github.com/lozanotux/trading-notification-bot)
-- 🗂 [Platzigram (instagram with Django)](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram)
-- 🗂 [Coffee Shop (Django App)](https://github.com/lozanotux/coffee_shop)
-- 🗂 [ArgoCD rollouts-demo (Blue-Green)](https://github.com/lozanotux/rollouts-demo)
-- 🗂 [Calculadorita (GNU/Linux Desktop App)](https://github.com/lozanotux/calculadorita)
-- 🗂 [Quarkus - GraphQL](https://github.com/lozanotux/quarkus-graphql)
-- 🗂 [Netflix Spring Cloud PoC](https://github.com/lozanotux/spring-cloud)
-- 🗂 [JWT with Python & Flask PoC](https://github.com/lozanotux/python-flask-jwt)
+### ☁️ Cloud Native & Platform Engineering
+- 🗂 [ArgoCD rollouts-demo](https://github.com/lozanotux/rollouts-demo) - Blue-Green deployment strategies.
+- 🗂 [Netflix Spring Cloud PoC](https://github.com/lozanotux/spring-cloud) - Microservices patterns.
+- 🗂 [Quarkus - GraphQL](https://github.com/lozanotux/quarkus-graphql) - Efficient Java for the cloud.
+
+### ⚙️ Backend & Systems Development
+- 🗂 [Billing API with FastAPI](https://github.com/lozanotux/fastapi-example) - Modern Python API design.
+- 🗂 [Platzigram](https://github.com/lozanotux/portfolio/tree/master/Python/Django/platzigram) - Instagram-like architecture with Django.
+- 🗂 [Coffee Shop](https://github.com/lozanotux/coffee_shop) - Django-based application.
+- 🗂 [Calculadorita](https://github.com/lozanotux/calculadorita) - GNU/Linux Desktop App (Vala/GTK).
+- 🗂 [JWT with Python & Flask](https://github.com/lozanotux/python-flask-jwt) - Authentication Proof of Concept.
+
+
 
 <br>
 
